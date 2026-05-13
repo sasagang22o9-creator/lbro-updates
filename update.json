@@ -1,5 +1,14 @@
 {
-  "version": "1.0.1",
-  "changelog": "Поздравляю! OTA-обновления успешно настроены и работают! 🎉",
-  "files": []
+  "version": "1.0.2",
+  "changelog": "Тестовое обновление: подпись изменена на БОСС!",
+  "files": [
+    {
+      "localPath": "js/main.js",
+      "downloadUrl": "https://raw.githubusercontent.com/sasagang22o9-creator/lbro-updates/main/js/main.js"
+    },
+    {
+      "localPath": "js/updater.js",
+      "downloadUrl": "https://raw.githubusercontent.com/sasagang22o9-creator/lbro-updates/main/js/updater.js"
+    }
+  ]
 }
